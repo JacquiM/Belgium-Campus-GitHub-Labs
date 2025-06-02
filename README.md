@@ -11,19 +11,18 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 > 📍 **Hybrid**: In-person (PTA Campus) & Online
 
 ---
-
 ## 🌟 Day 1: GitHub Bootcamp & Labs (5 June)
 
-| Time           | Session Title                                               | Description |
-|----------------|-------------------------------------------------------------|-------------|
-| **09:00 – 10:00** | 🎤 Welcome & Keynote | Meet our guest speakers Carike Botha & Carike Blignaut-Staden |
-| **10:00 – 11:00** | 🚀 Welcome to GitHub | Overview of GitHub and how to claim your Student Pack |
-| **11:00 – 12:00** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF |
-| **12:00 – 13:00** | LUNCH |  |
-| **13:00 – 14:30** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! |
-| **14:30 – 15:30** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches |
-| **15:30 – 16:00** | 🌐 Deploy to GitHub Pages | Publish your site or portfolio with GitHub Pages |
-| **16:00 – 16:30** | ⚙️ Intro to GitHub Actions | Automate your workflow using GitHub Actions |
+| Time           | Session Title                                               | Description | Lab Link |
+|----------------|-------------------------------------------------------------|-------------|----------|
+| **09:00 – 10:00** | 🎤 Welcome & Keynote | Meet our guest speakers Carike Botha & Carike Blignaut-Staden | – |
+| **10:00 – 11:00** | 🚀 Welcome to GitHub | Overview of GitHub and how to claim your Student Pack | – |
+| **11:00 – 12:00** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF | [Lab 01](01%20GitHub%20Profile%20Readme.md) |
+| **12:00 – 13:00** | LUNCH | | – |
+| **13:00 – 14:30** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! | [Lab 02](02%20GitHub%20Project.md) |
+| **14:30 – 15:30** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches | [Lab 03](03%20GitHub%20Repositories.md) |
+| **15:30 – 16:00** | 🌐 Deploy to GitHub Pages | Publish your site or portfolio with GitHub Pages | [Lab 04](04%20GitHub%20Pages.md) |
+| **16:00 – 16:30** | ⚙️ Intro to GitHub Actions | Automate your workflow using GitHub Actions | – |
 
 ---
 

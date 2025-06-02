@@ -6,9 +6,9 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 ![GitHub Labs Banner](https://images.quicket.co.za/0760233_0.jpeg)
 
 > 🗓️ **Date**: 5th & 6th June 2025  
-> 🕘 **Time**: 09:00 – 16:00 daily  
+> 🕘 **Time**: 09:00 – 16:30 daily  
 > 🍽️ **Lunch**: 12:00 – 13:00 daily  
-> 📍 **Hybrid**: In-person (PTA) & Online
+> 📍 **Hybrid**: In-person (PTA Campus) & Online
 
 ---
 
@@ -16,7 +16,7 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 
 | Time           | Session Title                                               | Description |
 |----------------|-------------------------------------------------------------|-------------|
-| **09:00 – 10:00** | 🎤 Welcome & Keynote | Meet our speakers Carike Botha & Carike Blignaut-Staden |
+| **09:00 – 10:00** | 🎤 Welcome & Keynote | Meet our guest speakers Carike Botha & Carike Blignaut-Staden |
 | **10:00 – 11:00** | 🚀 Welcome to GitHub | Overview of GitHub and how to claim your Student Pack |
 | **11:00 – 11:30** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF |
 | **11:30 – 12:00** | ⏸️ Break / Transition | Short break before diving into projects |
@@ -34,6 +34,13 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 |----------------|-------------------------------------------------------------|-------------|
 | **09:00 – 14:00** | 🎯 Assignment Launch | Choose an epic project, plan it out, and start building using GitHub |
 | **14:00 – 14:30** | 📥 Submission Time | Submit your completed project via the provided link |
+
+---
+
+## 📤 Day 2 Submission Link
+
+🔗 **Submit your final GitHub project here:**  
+👉 _GitHub Labs Submission https://images.quicket.co.za/0760233_0.jpeg_
 
 ---
 

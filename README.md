@@ -20,8 +20,11 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 | **10:00 – 11:00** | 🚀 Welcome to GitHub | Overview of GitHub and how to claim your Student Pack |
 | **11:00 – 11:30** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF |
 | **11:30 – 12:00** | ⏸️ Break / Transition | Short break before diving into projects |
-| **13:00 – 15:00** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! |
-| **15:00 – 16:00** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches |
+| **12:00 – 13:00** | LUNCH |  |
+| **13:00 – 14:30** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! |
+| **14:30 – 15:30** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches |
+| **15:30 – 16:00** | 🌐 Deploy to GitHub Pages | Publish your site or portfolio with GitHub Pages |
+| **16:00 – 16:30** | ⚙️ Intro to GitHub Actions | Automate your workflow using GitHub Actions |
 
 ---
 
@@ -29,10 +32,8 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 
 | Time           | Session Title                                               | Description |
 |----------------|-------------------------------------------------------------|-------------|
-| **09:00 – 12:00** | 🎯 Assignment Launch | Choose an epic project, plan it out, and start building using GitHub |
-| **13:00 – 14:00** | 🌐 Deploy to GitHub Pages | Publish your site or portfolio with GitHub Pages |
-| **14:00 – 14:30** | ⚙️ Intro to GitHub Actions | Automate your workflow using GitHub Actions |
-| **14:30 – 16:00** | 📥 Submission Time | Submit your completed project via the provided link |
+| **09:00 – 14:00** | 🎯 Assignment Launch | Choose an epic project, plan it out, and start building using GitHub |
+| **14:00 – 14:30** | 📥 Submission Time | Submit your completed project via the provided link |
 
 ---
 

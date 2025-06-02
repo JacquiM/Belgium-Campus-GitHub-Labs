@@ -18,8 +18,7 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 |----------------|-------------------------------------------------------------|-------------|
 | **09:00 – 10:00** | 🎤 Welcome & Keynote | Meet our guest speakers Carike Botha & Carike Blignaut-Staden |
 | **10:00 – 11:00** | 🚀 Welcome to GitHub | Overview of GitHub and how to claim your Student Pack |
-| **11:00 – 11:30** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF |
-| **11:30 – 12:00** | ⏸️ Break / Transition | Short break before diving into projects |
+| **11:00 – 12:00** | 🧑‍💻 Profile README Lab | Generate a GitHub profile README from your LinkedIn PDF |
 | **12:00 – 13:00** | LUNCH |  |
 | **13:00 – 14:30** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! |
 | **14:30 – 15:30** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches |

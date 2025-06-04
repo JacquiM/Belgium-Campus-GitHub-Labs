@@ -37,7 +37,7 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 ## 📤 Day 2 Submission Link
 
 🔗 **Submit your final GitHub project here:**  
-👉 _GitHub Labs Submission https://images.quicket.co.za/0760233_0.jpeg_
+👉 _GitHub Labs Submission: https://forms.cloud.microsoft/r/LzEjPcZQKN_
 
 ---
 

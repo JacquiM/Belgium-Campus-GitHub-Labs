@@ -21,8 +21,7 @@ From claiming your **Student Developer Pack** to deploying your site with **GitH
 | **12:00 – 13:00** | LUNCH | | – |
 | **13:00 – 14:30** | 🗂️ GitHub Projects Lab | Plan and manage a mini project using GitHub Projects. Scrum-style! | [Lab 02](02%20GitHub%20Project.md) |
 | **14:30 – 15:30** | 💻 GitHub Repositories & Desktop | Understand source control basics & build your first repo with branches | [Lab 03](03%20GitHub%20Repositories.md) |
-| **15:30 – 16:00** | 🌐 Deploy to GitHub Pages | Publish your site or portfolio with GitHub Pages | [Lab 04](04%20GitHub%20Pages.md) |
-| **16:00 – 16:30** | ⚙️ Intro to GitHub Actions | Automate your workflow using GitHub Actions | – |
+| **15:30 – 16:00** | 🌐 GitHub Pages | Publish your site or portfolio with GitHub Pages | [Lab 04](04%20GitHub%20Pages.m
 
 ---
 
